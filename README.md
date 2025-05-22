@@ -135,7 +135,6 @@
   $ grep "error" logfile.txt
   ```
 
----
 - **grep**  
   Searches for a pattern within files, multiple search text.
   ```bash
