@@ -136,7 +136,13 @@
   ```
 
 ---
+- **grep**  
+  Searches for a pattern within files, multiple search text.
+  ```bash
+  $ egrep "error|some other text" logfile.txt
+  ```
 
+---
 ### **Basic Networking Commands**
 
 - **ping**  
